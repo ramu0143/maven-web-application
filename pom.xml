@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>sbibank Snapshot Nexus Repository </name>
-	      <url>http://54.157.133.101:8081/repository/sbibank-snapshot/</url>
+	      <name>nexus-sbibank-snapshot </name>
+	      <url>http://54.157.133.101:8081/repository/nexus-sbibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
